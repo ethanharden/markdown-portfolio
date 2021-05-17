@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![This is a picture of DeeDee]https://drive.google.com/file/d/1NNMkfPgnocfahXVVdWF3lGF3nTYmNqSN/view?usp=sharing
