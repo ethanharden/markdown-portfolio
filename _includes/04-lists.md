@@ -1,4 +1,4 @@
-*good
-*things
-*food
-  *cheese
+* good
+* things
+* food
+  * cheese
