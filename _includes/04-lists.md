@@ -1,2 +1,4 @@
+*good
+*things
 *food
   *cheese
